@@ -38,18 +38,20 @@ function Hero() {
           />
         </button>
 
-        <button 
-          style={{color: COLORS.primary}}
-          className='border-2 border-primary flex items-center rounded-xl mt-4 px-4 py-4 gap-2 font-semibold w-75 justify-around md:w-80'
-        >
-          <Image
-            width={40}
-            height={40}
-            src='/icons/hero/laptop.png'
-            alt=''
-          />
-          Ver painel demonstrativo
-        </button>
+        <a href='/dashboard'>
+          <button 
+            style={{color: COLORS.primary}}
+            className='border-2 border-primary flex items-center rounded-xl mt-4 px-4 py-4 gap-2 font-semibold w-75 justify-around md:w-80'
+          >
+            <Image
+              width={40}
+              height={40}
+              src='/icons/hero/laptop.png'
+              alt=''
+            />
+            Ver painel demonstrativo
+          </button>
+        </a>
       </div>
     </section>
   )
