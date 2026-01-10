@@ -9,7 +9,9 @@ export default function HomeLayout({
   return (
     <>
       <Header />
-      {children}
+        <main>
+          {children}
+        </main>
       <Footer />
     </>
   );
