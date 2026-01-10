@@ -44,7 +44,6 @@ function Solutions() {
                     {solution.subtitle}
                   </p>
 
-                  <span>{solution.check}</span>
                   <ul className="flex flex-col gap-3">
                     {solution.features.map((feature) => (
                       <li key={feature} className="flex items-center gap-3">
