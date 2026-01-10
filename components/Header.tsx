@@ -59,13 +59,17 @@ function Header() {
           </nav>
 
           <div className="flex gap-2">
-            <Link href={"/dashboard"}>
+            <a href="/dashboard">
               <button className="cursor-pointer bg-[#6272b04f] text-[#6272b0] py-2 px-4 font-bold rounded-xl">
                 Ver Demo
               </button>
-            </Link>
+            </a>
 
-            <a href="https://wa.me/5574999944759?text=Quero+saber+mais+sobre+ESG" target='_blank'>
+            <a
+              href="https://wa.me/5574999944759?text=Quero+saber+mais+sobre+ESG"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
               <button
                 style={{ backgroundColor: COLORS.primary, color: COLORS.white }}
                 className="py-2 px-4 font-bold rounded-xl cursor-pointer"
