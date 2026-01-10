@@ -24,7 +24,9 @@ export default function RootLayout({
         className={montserrat.className}
         style={{ backgroundColor: "#eaf4ef" }}
       >
+        <Header/>
         <main>{children}</main>
+        <Footer/>
       </body>
     </html>
   );
