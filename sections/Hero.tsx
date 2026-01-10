@@ -28,7 +28,7 @@ function Hero() {
 
       <div className="flex flex-col items-center mt-10">
         <a href='#solucoes>
-          <button className='linearGradient rounded-xl flex items-center text-[#f5f5f5] font-semibold justify-around px-4 py-4 w-75 md:w-80'>
+          <button className='linearGradient rounded-xl flex items-center text-white font-semibold justify-around px-4 py-4 w-75 md:w-80'>
             Explorar soluções ESG
   
             <Image
