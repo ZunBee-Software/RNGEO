@@ -27,19 +27,6 @@ function Hero() {
       </div>
 
       <div className="flex flex-col items-center mt-10">
-        <a href='#solucoes'>
-          <button className='linearGradient rounded-xl flex items-center text-white font-semibold justify-around px-4 py-4 w-75 md:w-80'>
-            Explorar soluções ESG
-  
-            <Image
-              width={40}
-              height={40}
-              src='/icons/hero/arrow.png'
-              alt=''
-            />
-          </button>
-        </a>
-
         <a href='/dashboard'>
           <button 
             style={{color: COLORS.primary}}
