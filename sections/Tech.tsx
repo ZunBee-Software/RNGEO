@@ -4,7 +4,7 @@ import { COLORS } from '@/constants/colors'
 
 function Techs() {
   return (
-    <section className='flex flex-col items-center'>
+    <section className='flex flex-col items-center' id='tecnologia'>
       <div>
         <h1 className='title'>Tecnologia como ponte</h1>
         <p className='subtitle'>Ferramentas avançadas para resultados concretos</p>
