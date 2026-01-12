@@ -172,7 +172,7 @@ const Dashboard = () => {
       {/* Header */}
       <header className="bg-white/80 backdrop-blur-md border-b border-slate-200 sticky top-0 z-50">
         <div className="container mx-auto px-3 sm:px-4 md:px-6">
-          <div className="flex items-center justify-between h-14 sm:h-16">
+          <div className="flex items-center justify-between h-16 sm:h-18">
             <div className="flex items-center gap-2 sm:gap-4">
               <Link 
                 href="/" 
