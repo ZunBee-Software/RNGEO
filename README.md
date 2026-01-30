@@ -71,7 +71,7 @@ Ser referência em **tecnologia sustentável e educação ESG**, ajudando organi
 Se você busca **inovação sustentável, soluções ESG ou capacitação**, a RNGEO está pronta para colaborar.
 
 🌐 Site: [https://rngeo.com](https://rngeo.com)
-📩 Contato: [contato@rngeo.com](mailto:contato@rngeo.com)
+📩 Contato: [adricarocha@gmail.com](mailto:adricarocha@gmail.com)
 
 ---
 
