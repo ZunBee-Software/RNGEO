@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌱 RNGEO — Tecnologia e Sustentabilidade
 
-## Getting Started
+**RNGEO** é uma empresa focada em **soluções ESG (Environmental, Social and Governance)** que unem **tecnologia, sustentabilidade e educação** para gerar impacto real, mensurável e escalável.
 
-First, run the development server:
+Não apenas criamos soluções. **Nós capacitamos pessoas e organizações para construir um futuro mais responsável, inteligente e sustentável.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Nossa Missão
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Ajudar empresas, instituições e profissionais a **implementar práticas ESG eficientes**, reduzindo impactos ambientais, fortalecendo a governança e promovendo transformação social por meio de **tecnologia, dados e educação**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🌍 O Que Fazemos
 
-To learn more about Next.js, take a look at the following resources:
+### ♻️ Soluções ESG Inteligentes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Desenvolvemos e implementamos soluções voltadas para:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* Gestão ambiental e sustentabilidade corporativa
+* Mensuração e redução da pegada de carbono
+* Monitoramento de indicadores ESG
+* Automação de processos ambientais e regulatórios
+* Relatórios estratégicos para tomada de decisão
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 📊 Tecnologia Aplicada à Sustentabilidade
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Utilizamos tecnologia para transformar dados em **insights práticos**, incluindo:
+
+* Dashboards inteligentes para métricas ESG
+* Análise de dados ambientais e operacionais
+* Sistemas para acompanhamento de impacto
+* Integrações com ferramentas corporativas
+
+---
+
+### 🎓 Educação, Cursos e Capacitação
+
+Além de soluções técnicas, a RNGEO também atua na **formação e capacitação**, oferecendo:
+
+* Oficinas práticas sobre ESG e sustentabilidade
+* Cursos para empresas, estudantes e profissionais
+* Treinamentos em gestão ambiental e inovação sustentável
+* Conteúdos educativos para conscientização e tomada de decisão
+
+Acreditamos que **ensinar é tão importante quanto implementar**.
+
+---
+
+## 💡 Por Que a RNGEO?
+
+✔ Soluções práticas, não apenas teoria
+✔ Tecnologia aplicada a problemas reais
+✔ Foco em impacto mensurável
+✔ Educação como pilar de transformação
+✔ Visão estratégica para empresas e instituições
+
+---
+
+## 🧠 Nossa Visão
+
+Ser referência em **tecnologia sustentável e educação ESG**, ajudando organizações a transformar responsabilidade ambiental e social em **vantagem competitiva e impacto positivo real**.
+
+---
+
+## 🤝 Vamos Construir Impacto Juntos
+
+Se você busca **inovação sustentável, soluções ESG ou capacitação**, a RNGEO está pronta para colaborar.
+
+🌐 Site: [https://rngeo.com](https://rngeo.com)
+📩 Contato: [contato@rngeo.com](mailto:contato@rngeo.com)
+
+---
+
+> RNGEO — **Tecnologia, Sustentabilidade e Educação para o Futuro.**
